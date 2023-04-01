@@ -4,4 +4,5 @@ Esta regresion cuenta con una variable dependiente la cual es la popularidad del
 
 Instalaciones necesarias:
 pip install matplotlib
+
 pip install numpy
